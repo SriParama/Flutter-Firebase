@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#64EE6F" # Background color of the splash screen
+  image: lib/assets/images/apple.png # Path to your splash screen image
+  image_dark: lib/assets/images/google.png # Path to your splash screen image for dark mode
+  android: true # Set to true if you want to generate splash screen for Android
+  ios: true # Set to true if you want to generate splash screen for iOS
+ # "fill", "contain", or "cover"
+ # "dark" or "light" for controlling the status bar text color
